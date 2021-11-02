@@ -1,20 +1,15 @@
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
+Hello! My name is Nam and this is my profile
+
+🔭 Freshman at UIT.
+
+🌱 I’m currently learning as much as I can.
+
+📚 I want to learn robotics in the future.
+
+👯 I’m looking to collaborate with anyone.
+
+🤔 I’m looking for help with my studying progress.
+
+☁️ My goals: Create a robot arm and climb mount Everest.
+
+Tech & Tools Preference
