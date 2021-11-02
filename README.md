@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Le-Nguyen-Nhut-Nam
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning everything as much as I can.
+- 💞️ I’m looking to collaborate on deisgning circuit
+- 📫 How to reach me https://www.facebook.com/nhutnam.lenguyen.33/
+- ✨my goals: climb mount Everest and design creat a robot arm
