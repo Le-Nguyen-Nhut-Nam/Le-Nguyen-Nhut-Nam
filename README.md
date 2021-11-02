@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @Le-Nguyen-Nhut-Nam
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning everything as much as I can.
-- 💞️ I’m looking to collaborate on deisgning circuit
-- 📫 How to reach me https://www.facebook.com/nhutnam.lenguyen.33/
-- ✨my goals: climb mount Everest and design creat a robot arm
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
